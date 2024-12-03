@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full-stack development. I am a first-year student in Electronics and Communication. Exploring Open Source.
+I'm currently learning full-stack development. I am a Second-year student in Electronics and Communication. Exploring Open Source.
 
 
 ## 🌐 Socials:
